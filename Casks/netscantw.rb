@@ -1,7 +1,7 @@
 # Written by NetScanTW's release script (tools/release-homebrew.sh); edit the template there.
 cask "netscantw" do
   version "1.1"
-  sha256 "0d5e230b2e40da8a6f50f7772bee465b91d95694b846e3c490ecd702f196d923"
+  sha256 "a64e01d8c6d7578e46c3b76b01a59379355594eb38ffd639f3a742774c2f8829"
 
   url "https://github.com/ElbAnrainer/homebrew-tap/releases/download/v#{version}/NetScanTW-#{version}.zip"
   name "NetScanTW"

@@ -14,6 +14,10 @@ Update with `brew upgrade --cask netscantw`. Remove with `brew uninstall --cask 
 
 The app is signed with a Developer ID and notarized by Apple. NetScanTW is also in the Mac App Store; that edition is a separate app with its own data, so install only one of them.
 
+## License, warranty, and lawful use
+
+NetScanTW is free, but not open source: see [LICENSE](LICENSE) (English and German). It comes without any warranty, and its results may be incomplete or wrong. Use it only in networks that are yours or that you are allowed to check: scanning other people's networks without permission may be against the law.
+
 ## Support
 
 https://elbanrainer.github.io/netscantw-site/
